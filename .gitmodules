@@ -1,0 +1,6 @@
+[submodule "Users"]
+	path = Users
+	url = ssh://git@github.com/mtorkington/Users.git
+[submodule "GitUDemyRepo"]
+	path = GitUDemyRepo
+	url = git@ssh.github.com:/mtorkington/GitUDemyRepo.git
