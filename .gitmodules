@@ -3,4 +3,4 @@
 	url = ssh://git@github.com/mtorkington/Users.git
 [submodule "GitUDemyRepo"]
 	path = GitUDemyRepo
-	url = git@ssh.github.com:/mtorkington/GitUDemyRepo.git
+	url = git@github.com/mtorkington/GitUDemyRepo.git
